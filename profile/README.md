@@ -1,6 +1,6 @@
 ## メンバーの方
 
-画面右上の `Sign in` をクリックして、GitHubアカウントにログインしてください。
+画面右上の [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fnt-itsys%2F) をクリックして、GitHubアカウントにログインしてください。
 既にログインしている場合は画面右上のプロフィールアイコンをクリックし、 `Switch Account` から正しいアカウントに切り替えてください。
 
 ## 参加を希望される方
